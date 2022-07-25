@@ -1,0 +1,30 @@
+body{	
+	margin-left: 200px;
+	margin-right: 200px;
+	font-family: Times New Roman;
+}
+.droite{
+	float: center;
+	margin-left: 200px;
+}
+.gauche{
+	border-right: 4px solid aqua ;
+	float: left;
+	padding: 5px;
+	background-color: rgb(170,192,200);
+	
+}
+.circle{
+	border: 10px solid blue;
+	margin-top: 5px;
+	border-color: Teal;
+	border-image: none;
+	border-radius: 50% 50% 50% 50%;
+	border-style: solid;
+	border-width: 5px;
+	height: 150px;
+	width: 150px;
+	overflow-y: hidden;
+}
+	
+
